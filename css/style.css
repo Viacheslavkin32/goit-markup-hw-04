@@ -253,6 +253,8 @@ ul {
   color: #434455;
 }
 
+/* 3 секція */
+
 .team-section {
   background-color: #f4f4fd;
   padding: 120px 0;
@@ -296,6 +298,7 @@ ul {
 .team-list {
   display: flex;
   gap: 24px;
+  justify-content: center;
 }
 
 .team-item {
@@ -314,6 +317,7 @@ ul {
 
 .team-info {
   padding: 32px 0;
+  text-align: center;
 }
 
 .team-name {
@@ -321,7 +325,6 @@ ul {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #2e2f42;
   margin-bottom: 8px;
 }
@@ -334,6 +337,8 @@ ul {
   color: #434455;
   margin-bottom: 8px;
 }
+
+/* 4 секція */
 
 .portfolio-section {
   padding: 120px 0;
